@@ -1,2 +1,2 @@
 # deeplearning
-postgraduate
+postgraduate study train

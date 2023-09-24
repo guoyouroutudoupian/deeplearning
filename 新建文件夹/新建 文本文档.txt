@@ -1,5 +1,9 @@
+rm [旧文件名] [新文件名]
+
 git clone [链接]
 git add .
 git commit -m "描述"
-git push .
+git push
 git status
+
+git pull
